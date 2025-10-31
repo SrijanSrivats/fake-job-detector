@@ -1,0 +1,4 @@
+to run project open anacodna prompt and run the following commands
+--------------------------------------------------------------------------
+cd C:\Users\adi36\OneDrive\Desktop\Project\FakeJobWeb
+jupyter notebook
